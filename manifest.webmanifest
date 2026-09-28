@@ -1,0 +1,11 @@
+{
+  "name": "نظام القضايا المنظورة",
+  "short_name": "القضايا",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#101828",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
